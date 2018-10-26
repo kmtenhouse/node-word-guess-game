@@ -13,4 +13,4 @@ A lightweight command-line version of a classic word guessing game!  Users are p
 
 # Example Play
 ![Selection](selection.gif "Select your category")
-![Game Play](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example Game Play")
+![Game Play](gameplay.gif "Example Game Play")
