@@ -12,5 +12,5 @@ A lightweight command-line version of a classic word guessing game!  Users are p
 * Never guess the same word twice within a category!
 
 # Example Play
-![Selection](selection.gif "Select your category")
-![Game Play](gameplay.gif "Example Game Play")
+![Selection](gameplay.gif "Select your category")
+![Game Play](selection.gif "Example Game Play")
